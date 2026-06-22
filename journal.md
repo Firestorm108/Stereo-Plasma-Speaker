@@ -24,4 +24,11 @@ I imported the footprints in, organized it, and routed it. This was kinda a pain
 
 <img width="762" height="850" alt="Screenshot 2026-06-22 at 11 04 23 AM" src="https://github.com/user-attachments/assets/e303de74-45a8-4dae-9265-bcad258afafc" />
 
-Time Spent: 5 Hours
+After that I made the BOM, and found the other non PCB parts. I think it'll be cool and I'm like pretty sure it's going to work. 
+
+I'll then polish the repo and submit.
+
+<img width="1318" height="659" alt="Screenshot 2026-06-22 at 12 10 52 PM" src="https://github.com/user-attachments/assets/7b8dbfb2-429d-4ee0-badd-7783e0a29ebc" />
+
+
+Time Spent: 7 Hours

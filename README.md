@@ -26,7 +26,8 @@ Please do NOT make this under any circumstances unless you are experienced in th
 The transformers are in a setup similar to another hobbyist who has taken under this endeavor (Franzioli Electronics). Since the output of these transformers is DC, we ground both negative sides to EARTH.
 This happens to be what the power supply case is also grounded to, so the transformers can arc to it. I have attached a sketch of what it should look like below as well as Franzioli's setup.
 
-<img width="489" height="462" alt="Screenshot 2026-06-22 at 1 21 56 PM" src="https://github.com/user-attachments/assets/508fd711-beca-434b-ae35-b7d5931537f0" />
+<img width="448" height="622" alt="Screenshot 2026-06-22 at 1 22 51 PM" src="https://github.com/user-attachments/assets/e905de1f-c11c-442d-a2b7-e924409d68c2" />
+
 
 <img width="1247" height="645" alt="Screenshot 2026-06-22 at 1 17 59 PM" src="https://github.com/user-attachments/assets/0ca0ee18-2ec8-4ee9-9154-85466bb5bd53" />
 

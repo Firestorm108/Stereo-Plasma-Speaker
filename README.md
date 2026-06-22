@@ -24,6 +24,8 @@ Please do NOT make this under any circumstances unless you are experienced in th
 
 # Bill of Materials (BOM)
 
+Spreadsheet: https://docs.google.com/spreadsheets/d/1otGum9Sx6bZxCgRWKGgvt_wOPlaQsT0GzGbc5mcCbH8/edit?gid=0#gid=0
+
 ## Components
 
 | Item | Price | Link |

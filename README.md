@@ -22,6 +22,9 @@ Please do NOT make this under any circumstances unless you are experienced in th
 <img width="583" height="653" alt="Screenshot 2026-06-22 at 12 15 56 PM" src="https://github.com/user-attachments/assets/87844db4-f341-42e8-830e-ce0375bcfa9c" />
 <img width="644" height="700" alt="Screenshot 2026-06-22 at 12 15 41 PM" src="https://github.com/user-attachments/assets/94717f21-1345-4adc-8b47-50a65575e1f0" />
 
+<img width="1247" height="645" alt="Screenshot 2026-06-22 at 1 17 59 PM" src="https://github.com/user-attachments/assets/0ca0ee18-2ec8-4ee9-9154-85466bb5bd53" />
+
+
 # Bill of Materials (BOM)
 
 Spreadsheet: https://docs.google.com/spreadsheets/d/1otGum9Sx6bZxCgRWKGgvt_wOPlaQsT0GzGbc5mcCbH8/edit?gid=0#gid=0

@@ -22,6 +22,12 @@ Please do NOT make this under any circumstances unless you are experienced in th
 <img width="583" height="653" alt="Screenshot 2026-06-22 at 12 15 56 PM" src="https://github.com/user-attachments/assets/87844db4-f341-42e8-830e-ce0375bcfa9c" />
 <img width="644" height="700" alt="Screenshot 2026-06-22 at 12 15 41 PM" src="https://github.com/user-attachments/assets/94717f21-1345-4adc-8b47-50a65575e1f0" />
 
+# Display Setup
+The transformers are in a setup similar to another hobbyist who has taken under this endeavor (Franzioli Electronics). Since the output of these transformers is DC, we ground both negative sides to EARTH.
+This happens to be what the power supply case is also grounded to, so the transformers can arc to it. I have attached a sketch of what it should look like below as well as Franzioli's setup.
+
+<img width="489" height="462" alt="Screenshot 2026-06-22 at 1 21 56 PM" src="https://github.com/user-attachments/assets/508fd711-beca-434b-ae35-b7d5931537f0" />
+
 <img width="1247" height="645" alt="Screenshot 2026-06-22 at 1 17 59 PM" src="https://github.com/user-attachments/assets/0ca0ee18-2ec8-4ee9-9154-85466bb5bd53" />
 
 

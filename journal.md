@@ -74,4 +74,11 @@ Added in ports, did some more wiring, and made a second amp for the 555 signal.
 
 Time Spent: 3 Hours
 
+# July 6 2026
+
+Finished the build!
+
+<img width="3024" height="4032" alt="IMG_6342" src="https://github.com/user-attachments/assets/6ea194a2-a1da-44cd-9434-d0cbfa00eed9" />
+
+Time Spent: 5 Hours
 

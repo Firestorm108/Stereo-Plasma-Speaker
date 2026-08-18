@@ -1,3 +1,5 @@
+# 27 Hours Spent
+
 # June 22 2026
 
 First, I decided what the project's scope was going to look like.

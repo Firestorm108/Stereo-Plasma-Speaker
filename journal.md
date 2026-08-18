@@ -32,3 +32,46 @@ I'll then polish the repo and submit.
 
 
 Time Spent: 7 Hours
+
+# July 1 2026
+
+Started off with logic PSU and basic signals from the RCA jacks w/ the transistor amps.
+
+<img width="3024" height="4032" alt="IMG_6285" src="https://github.com/user-attachments/assets/a62f1dc6-9d2d-49dc-88d5-1dfde83bb1e7" />
+
+Time Spent: 2 Hours
+
+# July 2 2026
+
+I did like the whole thing and finished it. But basically the 555 timers aren't oscillating right, and the signal from RCA jacks is going straight to FETs. 
+And it kinda worked. like, I heard music play through magnetic restriction of the transformer core lol, but not plasma. 
+
+<img width="3024" height="4032" alt="IMG_6293" src="https://github.com/user-attachments/assets/f0ac9b23-0a0e-4e9e-981a-913299160429" />
+
+Time Spent: 6 Hours
+
+# July 3 2026
+
+Got to work building Rev. 2, since this has to work for outpost. My wiring is a little cleaner this time and also I have the 555 timer wired differently so it should work.
+
+<img width="3024" height="4032" alt="IMG_6311" src="https://github.com/user-attachments/assets/52cc4163-4365-46b8-9864-9606b6379c2d" />
+
+Time Spent: 2 Hours
+
+# July 4 2026
+
+Added in adjustment pots, did some more wiring to the 555s, etc.
+
+<img width="3024" height="4032" alt="IMG_6314" src="https://github.com/user-attachments/assets/d621db07-99af-4955-a46a-e95217476d92" />
+
+Time Spent: 2 Hours
+
+# July 5 2026
+
+Added in ports, did some more wiring, and made a second amp for the 555 signal.
+
+<img width="3024" height="4032" alt="IMG_6336" src="https://github.com/user-attachments/assets/c9cda5bb-7d28-4dba-9abd-a46f655bee7c" />
+
+Time Spent: 3 Hours
+
+

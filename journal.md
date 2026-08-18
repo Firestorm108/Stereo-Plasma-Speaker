@@ -1,4 +1,4 @@
-# 27 Hours Spent
+# 27 Hours Total
 
 # June 22 2026
 

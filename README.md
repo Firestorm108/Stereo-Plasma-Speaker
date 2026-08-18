@@ -3,7 +3,7 @@ A dual-flyback setup that can produce stereo audio through plasma arcs.
 
 Two CRT flyback transformers are driven by a 555 oscillator based circuit, The frequency of these oscillations is modulated through an audio input, from a laptop into an RCA jack. However, by splitting the AUX output into left and right RCA, we can get stereo output.
 This should produce long arcs at a 24V primary (base, should spike higher). To the grounded metal case of the power supply (inspired by Franzioli Electronis).
-
+Demo: https://www.instagram.com/p/DbO_V3BveC0/
 # Warning
 
 Please do NOT make this under any circumstances unless you are experienced in the field. While this is lowish power, it can create insane voltages and currents and is lethal to anyone who doesn't know what they are doing. I recommened starting with a simple slayer exciter circuit or small flyback kits. I do not hold any responsibility for what you choose to do with this information.

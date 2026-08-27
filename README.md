@@ -19,6 +19,7 @@ Please do NOT make this under any circumstances unless you are experienced in th
  - IRFP460 based
 
 ## Pictures:
+![Uploading Screenshot 2026-08-27 at 1.45.48 PM.png…]()
 
 <img width="475" height="502" alt="Screenshot 2026-06-22 at 12 16 09 PM" src="https://github.com/user-attachments/assets/5fc0e292-0517-49e8-9726-6c94ecd284fa" />
 <img width="583" height="653" alt="Screenshot 2026-06-22 at 12 15 56 PM" src="https://github.com/user-attachments/assets/87844db4-f341-42e8-830e-ce0375bcfa9c" />
